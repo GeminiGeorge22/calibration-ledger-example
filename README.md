@@ -113,12 +113,14 @@ apify call publicrecords/calibration-ledger --input '{
 }'
 ```
 
-## Pricing (listing)
+## Pricing (as of Oct 28, 2026)
 
-- Actor-start: **$0.005**
-- Lookup: **$0.02** (place one claim in its record)
-- Score: **$0.02** · Text: **$0.03** · Compare / Issuer: **$0.05**
-- Coverage / honest "no coverage": free per listing
+Pay per event, billed on your Apify account ([Store pricing](https://apify.com/publicrecords/calibration-ledger/pricing)). Free-plan list prices.
+
+- Actor start: **0.5¢**
+- Lookup: **2¢** (place one claim in its record; 1.6¢ on Silver and up)
+- Score: **2¢** · Text: **3¢** · Compare / Issuer: **5¢**
+- Coverage / honest "no coverage": free
 
 ## What this repo is not
 
